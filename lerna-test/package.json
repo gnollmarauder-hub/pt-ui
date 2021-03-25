@@ -6,7 +6,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-lerna-changelog"
+      "path": "./lerna-test/node_modules/cz-lerna-changelog"
     }
   },
   "devDependencies": {
