@@ -19,6 +19,7 @@
   "version": "independent",
   "scripts": {
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "bootstrap": "lerna"
   }
 }
